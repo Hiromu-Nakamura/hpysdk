@@ -1,0 +1,13 @@
+name: hpysdk
+channels:
+  - conda-forge
+  - https://repo.platform.here.com/artifactory/api/conda/olp_analytics/analytics_sdk
+dependencies:
+  - python=3.9
+  - seaborn
+  - jupyterlab
+  - here-content=2.4.0
+  - here-geopandas-adapter=2.4.0
+  - here-geotiles=2.4.0
+  - here-inspector=2.4.0
+  - here-platform=2.4.0
