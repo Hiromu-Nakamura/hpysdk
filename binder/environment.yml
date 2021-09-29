@@ -4,6 +4,7 @@ channels:
   - https://repo.platform.here.com/artifactory/api/conda/olp_analytics/analytics_sdk
 dependencies:
   - python=3.9
+  - leafmap
   - emacs
   - seaborn
   - jupyterlab
