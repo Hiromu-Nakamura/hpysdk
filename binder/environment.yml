@@ -7,7 +7,11 @@ dependencies:
   - emacs
   - seaborn
   - jupyterlab
+  - ipydatagrid
   - ray-core
+  - voila
+  - lux-api
+  - streamlit
   - here-content=2.4.0
   - here-geopandas-adapter=2.4.0
   - here-geotiles=2.4.0
